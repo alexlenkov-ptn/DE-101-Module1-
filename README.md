@@ -6,4 +6,5 @@
 
 Сам файл находится тут
 ## Практика создания дашбордов в Excel
-![image](https://user-images.githubusercontent.com/64987184/170883387-95be6601-20ee-4d2a-b0a9-953105ecc042.png)
+![image](https://user-images.githubusercontent.com/64987184/170883409-3c5fdaec-764e-4b93-8b54-21242f5d2b74.png)
+
